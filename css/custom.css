@@ -1,0 +1,20 @@
+.tab-full h3.with-underline:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100%;
+    background: rgba(255, 167, 208, 0.2);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    left: 0;
+    bottom: 0;
+}
+
+#message-warning {
+    color: #ffef00;
+    display: block;
+    padding: 0;
+    font-family: menlo, monospace;
+    font-size: 12px;
+    font-weight: bold;
+}
