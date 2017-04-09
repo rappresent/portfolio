@@ -18,3 +18,16 @@
     font-size: 12px;
     font-weight: bold;
 }
+
+p.footer-paragraph {
+    color: #b9b9b9;
+}
+p.footer-paragraph a {
+    color: #b9b9b9;
+    outline: 0;
+} 
+
+p.footer-paragraph a:hover, a:focus, a:active {
+    color: #FF0077;
+    outline: 0;
+} 
